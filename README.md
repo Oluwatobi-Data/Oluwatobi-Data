@@ -85,11 +85,11 @@ This repository showcases a selection of real-world analysis projects that cover
 
 ## Portfolio Highlights
 
-- ✅ **real-world dashboards**
-- ✅ **Used by HR, finance, and retail stakeholders**
-- ✅ **Business-driven recommendations backed by data**
-- ✅ **Clean, interactive visualizations**
-- ✅ **100% beginner-friendly Excel/Power BI structure**
+- **real-world dashboards**
+- **Used by HR, finance, and retail stakeholders**
+- **Business-driven recommendations backed by data**
+- **Clean, interactive visualizations**
+- **100% beginner-friendly Excel/Power BI structure**
 
 ---
 
