@@ -1,4 +1,4 @@
-# 📊 Oluwatobi Titilayo — Data Analytics Portfolio
+# Oluwatobi Titilayo — Data Analytics Portfolio
 
 Welcome to my professional data analytics portfolio. I’m a detail-driven data analyst with hands-on experience using **Power BI**, **Excel**, **SQL**, and **Python** to turn raw datasets into actionable business insights.
 
@@ -6,7 +6,7 @@ This repository showcases a selection of real-world analysis projects that cover
 
 ---
 
-## 🧑‍💼 About Me
+## About Me
 
 **Name:** Titilayo Oluwatobi  
 **Location:** Nigeria (Available for remote global roles)  
@@ -18,15 +18,15 @@ This repository showcases a selection of real-world analysis projects that cover
 - Data Storytelling  
 
 **Connect With Me:**  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/titilayo-oluwatobi/)  
-- 🧑‍💻 [GitHub](https://github.com/Oluwatobi-Data)  
-- 📧 Email: oluwatobit23@gmail.com 
+-  [LinkedIn](https://www.linkedin.com/in/titilayo-oluwatobi/)  
+-  [GitHub](https://github.com/Oluwatobi-Data)  
+-  Email: oluwatobit23@gmail.com 
 
 ---
 
-## 🧾 Featured Projects
+## Featured Projects
 
-### 1. 🧠 **HR Analytics Dashboard (Excel)**
+### 1. **HR Analytics Dashboard (Excel)**
 - **Goal:** Understand workforce composition, tenure, gender diversity, and compensation.
 - **Tools:** Excel Dashboard
 - **Key Insights:**  
@@ -37,7 +37,7 @@ This repository showcases a selection of real-world analysis projects that cover
 
 ---
 
-### 2. 💰 **Employee Salary Analysis (Power BI)**
+### 2. **Employee Salary Analysis (Power BI)**
 - **Goal:** Evaluate salary distribution, top roles by pay, and overtime cost implications (2011–2014).
 - **Tools:** Power BI
 - **Key Insights:**  
@@ -48,7 +48,7 @@ This repository showcases a selection of real-world analysis projects that cover
 
 ---
 
-### 3. 🛍️ **Supermarket Sales Analysis (Power BI)**
+### 3. **Supermarket Sales Analysis (Power BI)**
 - **Goal:** Understand product performance, customer behavior, and revenue trends across branches.
 - **Tools:** Power BI
 - **Key Insights:**  
@@ -59,7 +59,7 @@ This repository showcases a selection of real-world analysis projects that cover
 
 ---
 
-### 4. 🍎 **Apple Product Sales Performance (Excel)**
+### 4. **Apple Product Sales Performance (Excel)**
 - **Goal:** Analyze 2022 Apple sales data to identify profitable regions, products, and channels.
 - **Tools:** Excel Dashboard
 - **Key Insights:**  
@@ -70,7 +70,7 @@ This repository showcases a selection of real-world analysis projects that cover
 
 ---
 
-## 🧠 Skills & Tools
+## Skills & Tools
 
 | Tool         | Proficiency | Use Case                            |
 |--------------|-------------|-------------------------------------|
@@ -83,7 +83,7 @@ This repository showcases a selection of real-world analysis projects that cover
 
 ---
 
-## 📌 Portfolio Highlights
+## Portfolio Highlights
 
 - ✅ **real-world dashboards**
 - ✅ **Used by HR, finance, and retail stakeholders**
@@ -93,16 +93,16 @@ This repository showcases a selection of real-world analysis projects that cover
 
 ---
 
-## 🗂 File Organization
+## File Organization
 
 Each project repo includes:
-- 📁 Raw dataset (where available)
-- 📄 Executive summary or case study (.pdf or README)
-- 🖼️ Screenshots or sample visuals
+- Raw dataset (where available)
+- Executive summary or case study (.pdf or README)
+- Screenshots or sample visuals
 
 ---
 
-## 🗨️ Quote
+## Quote
 
 > “Without data, you're just another person with an opinion.”  
 > — W. Edwards Deming
