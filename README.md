@@ -2,7 +2,7 @@
 
 Welcome to my professional data analytics portfolio. I’m a detail-driven data analyst with hands-on experience using **Power BI**, **Excel**, **SQL**, and **Python** to turn raw datasets into actionable business insights.
 
-This repository showcases a selection of real-world analysis projects that cover HR analytics, financial insights, retail intelligence, and workforce compensation. Each project includes dashboards, KPIs, business context, and strategic recommendations.
+This repository showcases a selection of real-world analysis projects that cover HR analytics, financial insights, retail intelligence, workforce compensation and SQL-based data cleaning and analysis. Each project includes dashboards, KPIs, business context, and strategic recommendations.
 
 ---
 
@@ -70,6 +70,30 @@ This repository showcases a selection of real-world analysis projects that cover
 
 ---
 
+### 5. **Layoffs Data Cleaning with SQL**
+- **Goal:** Clean and transform a raw dataset of global tech layoffs to make it analysis-ready.
+- **Tools:** MySQL
+- **Key Techniques:**  
+  - Removed duplicates with `ROW_NUMBER()`  
+  - Standardized inconsistent values (e.g., Crypto/Cryptocurrency)  
+  - Converted string dates to proper `DATE` format  
+  - Filled missing values using self-joins
+- [View Project »](https://github.com/Oluwatobi-Data/sql-data-cleaning)
+
+---
+
+### 6. **Layoffs Exploratory Data Analysis (EDA) with SQL**
+- **Goal:** Discover insights and patterns from the cleaned layoffs data.
+- **Tools:** MySQL
+- **Key Techniques:**  
+  - Aggregated layoffs by industry, country, and stage  
+  - Yearly trends using `YEAR()` and `GROUP BY`  
+  - Company ranking per year using `DENSE_RANK()`  
+  - Monthly rolling totals via window functions
+- [View Project »](https://github.com/Oluwatobi-Data/sql-eda-layoffs)
+
+---
+
 ## Skills & Tools
 
 | Tool         | Proficiency | Use Case                            |
@@ -90,7 +114,8 @@ This repository showcases a selection of real-world analysis projects that cover
 - **Business-driven recommendations backed by data**
 - **Clean, interactive visualizations**
 - **100% beginner-friendly Excel/Power BI structure**
-
+- **SQL Data cleaning and Exploratory Data Analysis**
+  
 ---
 
 ## File Organization
