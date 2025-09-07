@@ -94,6 +94,18 @@ This repository showcases a selection of real-world analysis projects that cover
 
 ---
 
+### 7. **Sales Insight Analysis with PowerBi ans MySQL**
+- **Goal:** Provide executive-level insights into sales performance, customer contribution, and market revenue trends using live database integration.  
+- **Tools:** Power BI, MySQL  
+- **Key Insights:**  
+  - Delhi market contributes over 50% of total revenue  
+  - Electricalsara Stores is the single largest customer, driving a significant revenue share  
+  - Revenue shows cyclical fluctuations, peaking mid-year and dipping toward end of 2019–2020
+- [View Project »](./Sales-insight)
+
+
+---
+
 ## Skills & Tools
 
 | Tool         | Proficiency | Use Case                            |
